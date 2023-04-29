@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author NAIK
- *
- */
-module ArraysProgram {
-}
